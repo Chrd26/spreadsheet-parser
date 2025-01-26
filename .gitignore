@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#Various Files
+Icon?
+.DS_Store 
+
 # Object files
 *.o
 *.ko
