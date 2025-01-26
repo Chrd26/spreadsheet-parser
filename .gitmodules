@@ -1,3 +1,6 @@
 [submodule "submodules/xlsxio"]
 	path = submodules/xlsxio
 	url = git@github.com:brechtsanders/xlsxio.git
+[submodule "submodules/lvgl"]
+	path = submodules/lvgl
+	url = https://github.com/lvgl/lvgl.git
